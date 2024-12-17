@@ -1,0 +1,2 @@
+streamlit==1.41.1
+scikit-fuzzy==0.5.0
